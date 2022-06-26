@@ -1,1 +1,1 @@
-React app for visualising data from newsServerPHP
+Тестовое задание в одной из компаний
